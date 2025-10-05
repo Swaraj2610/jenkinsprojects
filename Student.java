@@ -1,5 +1,11 @@
 public class Student {
-    public static void main(String[] args) {
-        System.out.println("sfgayfseyufgeaufgaeufgaekugfkeaugfkadugfakdfgu");
+
+    public Student() {
+        System.out.println("Student object");
     }
+
+    public void stud(){
+        System.out.println("Hii Im stud");
+    }
+   
 }

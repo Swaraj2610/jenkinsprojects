@@ -5,6 +5,8 @@ public class Main {
         System.out.println("hello yash,this is for jenkins");
         System.out.println("started at: " + new Date());
         System.out.println("End at: " + new Date());
+        Student s=new Student();
+        s.stud();
 
     }
 }
