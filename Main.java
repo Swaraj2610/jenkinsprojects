@@ -7,6 +7,5 @@ public class Main {
         System.out.println("End at: " + new Date());
         Student s=new Student();
         s.stud();
-
     }
 }
